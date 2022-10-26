@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "HTML5",
+        "title": "HTML Element Reference",
+        "img": "https://png.pngtree.com/png-vector/20190406/ourmid/pngtree-htm-file-document-icon-png-image_917794.jpg ",
+        "description": "HTML is easy to learn",
+        "student": "101",
+        "rating": "3.3",
+        "icon": "",
+        "detail": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    },
+    {
+        "id": "2",
+        "name": "JavaScript",
+        "title": "javaScript",
+        "img": " https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "description": "",
+        "student": "102",
+        "rating": "4.4",
+        "icon": "",
+        "detail": "If you need to review JavaScript, we recommend reading this guide. Note that we’re also using some features from ES6 — a recent version of JavaScript. In this tutorial, we’re using arrow functions, classes, let, and const statements. You can use the Babel REPL to check what ES6 code compiles to.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    },
+    {
+        "id": "3",
+        "name": "CSS",
+        "title": "CSS",
+        "img": " https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "description": "HTML is easy to learn - You will enjoy it!",
+        "student": "103",
+        "rating": "5.5",
+        "icon": "",
+        "detail": "We have created some responsive W3 CSS templates for you to use You are free to modify, save ,share ,and use them in all your projects.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    },
+    {
+        "id": "4",
+        "name": "GITHUB",
+        "title": "Git",
+        "img": " https://blog.zenhub.com/content/images/2022/10/Agile-epics-and-sprints.jpg",
+        "description": "HTML is easy to learn - You will enjoy it!",
+        "student": "105",
+        "rating": "5.3",
+        "icon": "",
+        "detail": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    },
+    {
+        "id": "5",
+        "name": "REACT",
+        "title": "Thinking in React",
+        "img": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png ",
+        "description": "HTML is easy to learn - You will enjoy it!",
+        "student": "506",
+        "rating": "3.3",
+        "icon": "",
+        "detail": "React. js is a very universal technology that is used to build interfaces, and therefore everything that allows users to interact with devices. Interfaces can be found everywhere, from mobile applications to websites, hence there are many use cases for this library.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    },
+    {
+        "id": "6",
+        "name": "NODE.JS",
+        "title": "Node.js is designed to build scalable network applications.",
+        "img": " https://i.ytimg.com/an/hAMD2DqQK8I/3784969369181652558_mq.jpg?v=60804b38",
+        "description": "HTML is easy to learn - You will enjoy it!",
+        "student": "109",
+        "rating": "4.5",
+        "icon": "",
+        "detail": "Developers use Node. js to create server-side web applications, and it is perfect for data-intensive applications since it uses an asynchronous, event-driven model. Now that we know what is Node, let's look at why it is so prevalent in web development.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    }
+]
