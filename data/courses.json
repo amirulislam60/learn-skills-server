@@ -2,14 +2,17 @@
     {
         "id": "01",
         "name": "HTML5",
-        "title": "HTML Element Reference",
+        "taitle": "Best Online Courses to Learn HTML",
         "img": "https://techtually.sirv.com/WP_www.techtually.com/2020/09/Advantages-and-disadvantages-of-HTML.jpg ",
         "description": "HTML is easy to learn",
         "student": "101",
         "category_id": "01",
-        "rating": "3.3",
+       "rating": {
+        "number": 4.5,
+        "badge": "Excellent"
+    },
         "icon": "",
-        "detail": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
+        "detail": "HTML (HTML serves many purposes, but its main function is for web development and web design. Learning HTML5 can also help you develop mobile apps, video games, eBooks, and more applications than just regular HTML. From a career point of view, having HTML as part of your language pack (meaning the number of languages that you know) is very helpful, especially if you work a lot with web applications or intend to be a full-stack developer.",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -19,14 +22,17 @@
     {
         "id": "03",
         "name": "CSS",
-        "title": "CSS",
+        "taitle": "CSS Matic Review: Simple Tool for Designers",
         "img": " https://cdn.educba.com/academy/wp-content/uploads/2018/10/Top-Uses-Of-CSS.jpg",
         "description": "HTML is easy to learn - You will enjoy it!",
         "student": "103",
         "category_id": "03",
-        "rating": "5.5",
+       "rating": {
+        "number": 4.5,
+        "badge": "Excellent"
+    },
         "icon": "",
-        "detail": "We have created some responsive W3 CSS templates for you to use You are free to modify, save ,share ,and use them in all your projects.",
+        "detail": "This section is directly below the CSS and as you can see, it contains additional controls. I’ve chosen to turn on Comments and IE9 support for additional information in the code. Note at the far left is the popup for Color Formats. This gives you six different choices for how color is used within the CSS. Note that two of these: hsla and rgba make use of an alpha channel. This allows you to control transparency within the gradient, which can be really useful with your layouts.",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -36,14 +42,17 @@
     {
         "id": "02",
         "name": "JavaScript",
-        "title": "javaScript",
+        "taitle": "Converting a JavaScript Object to a String",
         "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/introduction-to-javascript.png",
         "description": "",
         "student": "102",
         "category_id": "02",
-        "rating": "4.4",
+       "rating": {
+        "number": 4.5,
+        "badge": "Excellent"
+    },
         "icon": "",
-        "detail": "If you need to review JavaScript, we recommend reading this guide. Note that we’re also using some features from ES6 — a recent version of JavaScript. In this tutorial, we’re using arrow functions, classes, let, and const statements. You can use the Babel REPL to check what ES6 code compiles to.",
+        "detail": "Sometimes it becomes necessary to convert an object into a string in order to view or store it. For the purpose of debugging, a simple console.log() will suffice, as just about any modern browser’s Dev Tools will provide a pretty printed version of an object. Meanwhile, relying on implicit conversion when writing an object to any other location will only result in the utterly useless “[object Object]” string. Far better results can be achieved using JavaScript’s built-in JSON.stringify() method or by writing your own conversion function. Each of these will produce differing results, so it pays to carefully consider each option before deciding which approach best suits your requirements. With that in mind, we are going to try our hand at a few strategies here, including using the toSting() method, custom conversion methods, as well as the aforementioned JSON.stringify() in today’s web development tutorial.",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -53,13 +62,16 @@
     {
         "id": "04",
         "name": "GITHUB",
-        "title": "Git",
-        "img": " https://blog.zenhub.com/content/images/2022/10/Agile-epics-and-sprints.jpg",
+        "taitle": "Github",
+        "img": " https://img2.storyblok.com/672x0/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png",
         "description": "HTML is easy to learn - You will enjoy it!",
         "student": "105",
         "category_id": "04",
-        "rating": "5.3",
-        "icon": "",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxbcEcPgQV3G46HRD6FZlzbGSyjmqeL1OQFV7fQeE3fSv8xHy4ydwUYKs5KNxDMnnGND8&usqp=CAU",
         "detail": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.",
         "author": {
             "name": "Tim Berners-lee",
@@ -70,12 +82,15 @@
     {
         "id": "05",
         "name": "REACT",
-        "title": "Thinking in React",
+        "taitle": "Thinking in React",
         "img": "https://mechomotive.com/wp-content/uploads/2021/08/react.jpg ",
         "description": "HTML is easy to learn - You will enjoy it!",
         "student": "506",
         "category_id": "05",
-        "rating": "3.3",
+       "rating": {
+        "number": 4.5,
+        "badge": "Excellent"
+    },
         "icon": "",
         "detail": "React. js is a very universal technology that is used to build interfaces, and therefore everything that allows users to interact with devices. Interfaces can be found everywhere, from mobile applications to websites, hence there are many use cases for this library.",
         "author": {
@@ -87,12 +102,17 @@
     {
         "id": "06",
         "name": "NODE.JS",
-        "title": "Node.js is designed to build scalable network applications.",
-        "img": " https://i.ytimg.com/an/hAMD2DqQK8I/3784969369181652558_mq.jpg?v=60804b38",
+        "taitle": "Node.js is designed to build scalable network applications.",
+        "img": "https://miro.medium.com/max/750/0*3P4WhyFtuwCV5nTa.jpg",
         "description": "HTML is easy to learn - You will enjoy it!",
-        "student": "109",
+        "student": {
+            "number":500
+        },
         "category_id": "06",
-        "rating": "4.5",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
         "icon": "",
         "detail": "Developers use Node. js to create server-side web applications, and it is perfect for data-intensive applications since it uses an asynchronous, event-driven model. Now that we know what is Node, let's look at why it is so prevalent in web development.",
         "author": {

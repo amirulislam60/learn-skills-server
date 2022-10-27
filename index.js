@@ -19,10 +19,16 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-app.get('/category/:id',(req, res)=> {
+app.get('/details/:id',(req, res)=> {
     const id = req.params.id;
-    const category_courses = courses.filter(c => c.category_id===id);
-    res.send(category_courses);
+    if( id==='7'){
+        res.send(courses);
+    }
+    else{
+        const detalisCourses = courses.find(c => c.category_id === id);
+        res.send(detalisCourses);
+    }
+    
 })
 
 
