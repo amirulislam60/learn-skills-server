@@ -3,30 +3,13 @@
         "id": "01",
         "name": "HTML5",
         "title": "HTML Element Reference",
-        "img": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/11/how-to-link-a-stylesheet-css-file-to-your-html-file-1024x449.jpg ",
+        "img": "https://techtually.sirv.com/WP_www.techtually.com/2020/09/Advantages-and-disadvantages-of-HTML.jpg ",
         "description": "HTML is easy to learn",
         "student": "101",
-        "category_id":"01",
+        "category_id": "01",
         "rating": "3.3",
         "icon": "",
         "detail": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
-        "author": {
-            "name": "Tim Berners-lee",
-            "published_date": "2022-08-24 17:27:34",
-            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
-        }
-    },
-    {
-        "id": "02",
-        "name": "JavaScript",
-        "title": "javaScript",
-        "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/introduction-to-javascript.png",
-        "description": "",
-        "student": "102",
-        "category_id": "02",
-        "rating": "4.4",
-        "icon": "",
-        "detail": "If you need to review JavaScript, we recommend reading this guide. Note that we’re also using some features from ES6 — a recent version of JavaScript. In this tutorial, we’re using arrow functions, classes, let, and const statements. You can use the Babel REPL to check what ES6 code compiles to.",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -44,6 +27,23 @@
         "rating": "5.5",
         "icon": "",
         "detail": "We have created some responsive W3 CSS templates for you to use You are free to modify, save ,share ,and use them in all your projects.",
+        "author": {
+            "name": "Tim Berners-lee",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+        }
+    },
+    {
+        "id": "02",
+        "name": "JavaScript",
+        "title": "javaScript",
+        "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/introduction-to-javascript.png",
+        "description": "",
+        "student": "102",
+        "category_id": "02",
+        "rating": "4.4",
+        "icon": "",
+        "detail": "If you need to review JavaScript, we recommend reading this guide. Note that we’re also using some features from ES6 — a recent version of JavaScript. In this tutorial, we’re using arrow functions, classes, let, and const statements. You can use the Babel REPL to check what ES6 code compiles to.",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -98,7 +98,7 @@
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
-            "img": "https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
+            "img": "https://miro.medium.com/max/750/0*3P4WhyFtuwCV5nTa.jpg"
         }
     }
 ]
